@@ -1,0 +1,44 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Header */
+header {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Hero Section */
+section.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+/* Footer Styles */
+footer {
+    font-size: 0.9rem;
+}
+
+footer h5 {
+    font-weight: bold;
+}
+
+footer ul {
+    padding: 0;
+    list-style: none;
+}
+
+footer ul li {
+    margin-bottom: 5px;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #ddd;
+}

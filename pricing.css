@@ -1,0 +1,54 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Hero Section */
+section.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+/* Pricing Cards */
+.card {
+    border-radius: 15px;
+}
+
+.card-title {
+    font-size: 1.8rem;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+/* Call to Action Section */
+section.text-center {
+    background-color: #007bff;
+    color: white;
+    padding: 2rem;
+}
+
+footer {
+    font-size: 0.9rem;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin-bottom: 5px;
+}
+
+footer ul li a {
+    text-decoration: none;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
